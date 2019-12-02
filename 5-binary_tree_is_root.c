@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_root - function that checks if a node is root
  * @node: node to  check
- * return: 1 if is root or 0 if not
+ * Return: 1 if is root or 0 if not
  */
 int binary_tree_is_root(const binary_tree_t *node)
 {
